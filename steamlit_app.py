@@ -71,21 +71,21 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
     
      labels[0]: {
        "texts": ["itzy 유나는 섹시한 아이돌이다."],
-       "images": ["https://www.bhc.co.kr/upload/bhc/menu/%EC%96%91%EB%85%90%EC%B9%98%ED%82%A8_%EC%9C%99_410x271.jpg"],
-       "videos": ["https://www.youtube.com/watch?v=UjSTTH7pbOc"]
+       "images": ["https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6ZfZsToMlSaPlbAODLEdLlr0_yd8CXkG0bw&s"],
+       "videos": ["https://www.youtube.com/watch?v=AS1J1pnQ1Sk&list=RDAS1J1pnQ1Sk&start_radio=1"]
      },
 
 
  labels[1]: {
        "texts": ["가수 윤하는 노래를 잘 부른다."],
-       "images": ["https://www.bhc.co.kr/upload/bhc/menu/%EC%96%91%EB%85%90%EC%B9%98%ED%82%A8_%EC%9C%99_410x271.jpg"],
-       "videos": ["https://www.youtube.com/watch?v=UjSTTH7pbOc"]
+       "images": ["https://i.namu.wiki/i/P2aO4EHotcDoR2IXc7RmzDmpjhucVfTd-wbNzrnrt8yRgNKA-1CmUaw8U0aqusRi979GFTlvWTcyoiPhhO0pIA.webp"],
+       "videos": ["https://www.youtube.com/watch?v=P8lxQ-1oM1I&list=RDP8lxQ-1oM1I&start_radio=1"]
      },
 
  labels[2]: {
        "texts": ["소녀시대 윤아는 사랑이다."],
-       "images": ["https://www.bhc.co.kr/upload/bhc/menu/%EC%96%91%EB%85%90%EC%B9%98%ED%82%A8_%EC%9C%99_410x271.jpg"],
-       "videos": ["https://www.youtube.com/watch?v=UjSTTH7pbOc"]
+       "images": ["https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcR92jq6iaf-noley5N-ILn_Xfd5EyfeyJzcVh-JRglXe-CxFQhLXOO4IdN69lbigu52Li_uQzVvHM7cEPk"],
+       "videos": ["https://www.youtube.com/watch?v=QqpX_K2SBmo"]
      },
 }
 
