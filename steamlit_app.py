@@ -71,20 +71,20 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
     
      labels[0]: {
        "texts": ["치킨은 맛있다."],
-    #   "images": ["https://www.bhc.co.kr/upload/bhc/menu/%EC%96%91%EB%85%90%EC%B9%98%ED%82%A8_%EC%9C%99_410x271.jpg"],
+       "images": ["https://www.bhc.co.kr/upload/bhc/menu/%EC%96%91%EB%85%90%EC%B9%98%ED%82%A8_%EC%9C%99_410x271.jpg"],
        "videos": ["https://www.youtube.com/watch?v=UjSTTH7pbOc"]
      },
 
 
  labels[1]: {
        "texts": ["치킨은 맛있다."],
-    #   "images": ["https://www.bhc.co.kr/upload/bhc/menu/%EC%96%91%EB%85%90%EC%B9%98%ED%82%A8_%EC%9C%99_410x271.jpg"],
+       "images": ["https://www.bhc.co.kr/upload/bhc/menu/%EC%96%91%EB%85%90%EC%B9%98%ED%82%A8_%EC%9C%99_410x271.jpg"],
        "videos": ["https://www.youtube.com/watch?v=UjSTTH7pbOc"]
      },
 
  labels[2]: {
        "texts": ["치킨은 맛있다."],
-    #   "images": ["https://www.bhc.co.kr/upload/bhc/menu/%EC%96%91%EB%85%90%EC%B9%98%ED%82%A8_%EC%9C%99_410x271.jpg"],
+       "images": ["https://www.bhc.co.kr/upload/bhc/menu/%EC%96%91%EB%85%90%EC%B9%98%ED%82%A8_%EC%9C%99_410x271.jpg"],
        "videos": ["https://www.youtube.com/watch?v=UjSTTH7pbOc"]
      },
 }
